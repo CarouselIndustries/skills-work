@@ -1,0 +1,4 @@
+* @teamlead
+*.js @frontendteam
+test/* @qa
+*.md @rcaddell
